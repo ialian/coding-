@@ -13,3 +13,5 @@ while i > 0:
 		print('密碼錯誤!')
 		if i > 0:
 			print('還有' , i , '次機會')
+		else:
+			print('嘗試次數已用完，要鎖帳號了')
